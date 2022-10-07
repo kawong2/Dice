@@ -86,7 +86,6 @@ void setup()
           ellipse(myX+30,myY+45,15,15);
           ellipse(myX+50,myY+45,15,15);
         }
-    
           //your code here
       }
   }
